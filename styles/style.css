@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(204, 164, 124);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellowgreen;
+    padding: 16px 8px;
+    border: 1em red dotted;
+    text-align: center;
+}
+
+ul{
+    margin: 48px;
+}
+
+li{
+    display: block;
+    font-size: 52px;
+    color: #043f41;
+}
+
+li :hover{
+    color: red;
+    font-size: 69px;
+}
